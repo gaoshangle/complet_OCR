@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="share@192.168.1.48:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/share/gaoluoluo/complete_ocr" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/venv" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/outputs" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/data" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/checkpoints" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/1_21" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/__pycache__" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/pse" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/pse2" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/virtualenv-16.4.3.tar.gz" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/pydev" />
+            <excludedPath path="/home/share/gaoluoluo/complete_ocr/models/recognition" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

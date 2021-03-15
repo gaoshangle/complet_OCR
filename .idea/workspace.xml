@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="166f1126-39ce-4466-9f28-343ffd9b8ad3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="complete_ocr" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_tmp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39615">
+              <caret line="2093" selection-start-line="2093" selection-end-line="2093" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="209">
+                <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angle/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2242">
+              <caret line="129" column="14" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5852">
+              <caret line="308" selection-start-line="308" selection-end-line="308" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crnn/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4788">
+              <caret line="259" selection-start-line="259" selection-end-line="259" />
+              <folding>
+                <element signature="e#5241#5250#0" expanded="true" />
+                <element signature="e#6171#6265#0" />
+                <element signature="e#9309#10660#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbnet/utils/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#74#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/detective/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbnet/utils/cal_recall/script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#46#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>local_threshold</find>
+      <find>ap</find>
+      <find>orig</find>
+      <find>imshow</find>
+      <find>40</find>
+      <find>genGT</find>
+      <find>getBasics</find>
+      <find>request</find>
+      <find>correct</find>
+      <find>driverlicense</find>
+      <find>UPLOAD_FOLDER</find>
+      <find>idcard</find>
+      <find>formatResult</find>
+      <find>recognizee</find>
+      <find>evaluate</find>
+      <find>businesslicense</find>
+      <find>torch</find>
+      <find>angle</find>
+      <find>get_params</find>
+      <find>recognize</find>
+      <find>ocrFlag</find>
+      <find>crnn</find>
+      <find>test</find>
+      <find>util</find>
+      <find>layout</find>
+      <find>angle_class</find>
+      <find>angle_corre</find>
+      <find>np</find>
+      <find>img_path1</find>
+      <find>img_path</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_invoice2.py" />
+        <option value="$PROJECT_DIR$/dbnet/predict.py" />
+        <option value="$PROJECT_DIR$/dbnet/predict_tmp.py" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/gt/20200331123341.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/gt/20200427153546.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/gt/20200706101859.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/gt/20200706102057.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/gt/20200706145214.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/gt/20200706145434.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/gt/baidu-2.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/gt/baidu-3.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/gt/heilongjiang.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/txt_not_use/20200331123341.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/txt_not_use/baidu-2.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/txt_not_use/baidu-3.txt" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/complete_ocr/data/txt_not_use/heilongjiang.txt" />
+        <option value="$PROJECT_DIR$/../图片标注实例/label_json2txt.py" />
+        <option value="&lt;a0a71607-659e-44dd-9e4b-f851796ea467&gt;/home/share/gaoluoluo/dbnet/test/test_output/error_txt/20200331123341-errors.txt" />
+        <option value="$PROJECT_DIR$/tmp_test.py" />
+        <option value="$PROJECT_DIR$/partImgSave.py" />
+        <option value="$PROJECT_DIR$/crnn_95_31/crnn.py" />
+        <option value="$PROJECT_DIR$/crnn_95_31/test.py" />
+        <option value="$PROJECT_DIR$/crnn/network_dnn.py" />
+        <option value="$PROJECT_DIR$/dataset/data_loader.py" />
+        <option value="$PROJECT_DIR$/test_invoice.py" />
+        <option value="$PROJECT_DIR$/img_xuanzhuan.py" />
+        <option value="$PROJECT_DIR$/crnn/__init__.py" />
+        <option value="$PROJECT_DIR$/id_eyes.py" />
+        <option value="$PROJECT_DIR$/erzhihua.py" />
+        <option value="$PROJECT_DIR$/shanchu.py" />
+        <option value="$PROJECT_DIR$/img_add_word.py" />
+        <option value="$PROJECT_DIR$/eval/ic15/rrc_evaluation_funcs_v2.py" />
+        <option value="$PROJECT_DIR$/eval/invoice/eval_invoice.py" />
+        <option value="$USER_HOME$/桌面/跑API/工具py/rename.py" />
+        <option value="$PROJECT_DIR$/scan.py" />
+        <option value="$PROJECT_DIR$/img_xuan.py" />
+        <option value="$PROJECT_DIR$/app/idcard.py" />
+        <option value="$PROJECT_DIR$/idcard_gao.py" />
+        <option value="$PROJECT_DIR$/app/utils/businesslicense.py" />
+        <option value="$PROJECT_DIR$/businesslicense_gao.py" />
+        <option value="$PROJECT_DIR$/aa.py" />
+        <option value="$PROJECT_DIR$/test_app.py" />
+        <option value="$PROJECT_DIR$/dbnet/models/model.py" />
+        <option value="$PROJECT_DIR$/app/idcard_gao.py" />
+        <option value="$PROJECT_DIR$/app/businesslicense_gao.py" />
+        <option value="$PROJECT_DIR$/app/driverlicense_gao.py" />
+        <option value="$PROJECT_DIR$/models/detective/__init__.py" />
+        <option value="$PROJECT_DIR$/angle/__init__.py" />
+        <option value="$PROJECT_DIR$/test_tmp.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="y" value="545" />
+    <option name="width" value="1664" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="complete_ocr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="complete_ocr" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../classification-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/crnn_95_31" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1_21" />
+      <recent name="$PROJECT_DIR$/crnn_95_31" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/dbnet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="complete_ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="idcard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="complete_ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/idcard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img_xuan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="complete_ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/img_xuan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="complete_ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scan.py" />
+      <option name="PARAMETERS" value="-i test.jpg" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="complete_ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_tmp" type="PythonConfigurationType" factoryName="Python">
+      <module name="complete_ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="complete_ocr" type="Python.FlaskServer">
+      <module name="complete_ocr" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.complete_ocr" />
+      <item itemvalue="Python.test_tmp" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.idcard" />
+      <item itemvalue="Python.img_xuan" />
+      <item itemvalue="Python.scan" />
+      <item itemvalue="Python.test_app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.test_app" />
+        <item itemvalue="Python.idcard" />
+        <item itemvalue="Python.img_xuan" />
+        <item itemvalue="Python.scan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166f1126-39ce-4466-9f28-343ffd9b8ad3" name="Default Changelist" comment="" />
+      <created>1602063768283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602063768283</updated>
+      <workItem from="1602063783179" duration="1704000" />
+      <workItem from="1602070818352" duration="76000" />
+      <workItem from="1602683528916" duration="4695000" />
+      <workItem from="1602746703813" duration="766000" />
+      <workItem from="1602748495705" duration="14128000" />
+      <workItem from="1602815180176" duration="1114000" />
+      <workItem from="1602819967489" duration="1925000" />
+      <workItem from="1602827446862" duration="2092000" />
+      <workItem from="1602831032189" duration="317000" />
+      <workItem from="1602831466937" duration="2694000" />
+      <workItem from="1602834869043" duration="593000" />
+      <workItem from="1602836690106" duration="1313000" />
+      <workItem from="1602842377281" duration="12091000" />
+      <workItem from="1602922080118" duration="187000" />
+      <workItem from="1602922460942" duration="8781000" />
+      <workItem from="1603077684851" duration="3535000" />
+      <workItem from="1603087414164" duration="47000" />
+      <workItem from="1603087537391" duration="30914000" />
+      <workItem from="1603178909586" duration="222000" />
+      <workItem from="1603179368543" duration="2043000" />
+      <workItem from="1603181496249" duration="5112000" />
+      <workItem from="1603189907384" duration="179000" />
+      <workItem from="1603190210006" duration="1555000" />
+      <workItem from="1603193394821" duration="6023000" />
+      <workItem from="1603200537598" duration="147000" />
+      <workItem from="1603200735671" duration="5409000" />
+      <workItem from="1603263534349" duration="311000" />
+      <workItem from="1603264675109" duration="5212000" />
+      <workItem from="1603270345548" duration="2464000" />
+      <workItem from="1603276153894" duration="3318000" />
+      <workItem from="1603279926384" duration="2684000" />
+      <workItem from="1603284123898" duration="83000" />
+      <workItem from="1603284260518" duration="643000" />
+      <workItem from="1603284963070" duration="5140000" />
+      <workItem from="1603329943812" duration="523000" />
+      <workItem from="1603330845290" duration="2515000" />
+      <workItem from="1603333706864" duration="677000" />
+      <workItem from="1603334824311" duration="391000" />
+      <workItem from="1603335320893" duration="362000" />
+      <workItem from="1603336198819" duration="3197000" />
+      <workItem from="1603346386618" duration="1220000" />
+      <workItem from="1603347820301" duration="303000" />
+      <workItem from="1603348362532" duration="777000" />
+      <workItem from="1603349445014" duration="5238000" />
+      <workItem from="1603355856765" duration="8419000" />
+      <workItem from="1603366117968" duration="7075000" />
+      <workItem from="1603373253343" duration="5469000" />
+      <workItem from="1603419326679" duration="43000" />
+      <workItem from="1603419447706" duration="2572000" />
+      <workItem from="1603422088316" duration="5880000" />
+      <workItem from="1603437916066" duration="11847000" />
+      <workItem from="1603452676256" duration="11078000" />
+      <workItem from="1603682931839" duration="11047000" />
+      <workItem from="1603699759749" duration="859000" />
+      <workItem from="1603701235786" duration="568000" />
+      <workItem from="1603702035330" duration="2102000" />
+      <workItem from="1603704261628" duration="6867000" />
+      <workItem from="1603713309271" duration="9652000" />
+      <workItem from="1603765214092" duration="1940000" />
+      <workItem from="1603768954367" duration="436000" />
+      <workItem from="1603769506100" duration="4891000" />
+      <workItem from="1603781020618" duration="1723000" />
+      <workItem from="1603782944782" duration="3992000" />
+      <workItem from="1603787033590" duration="694000" />
+      <workItem from="1603787799880" duration="353000" />
+      <workItem from="1603788203966" duration="697000" />
+      <workItem from="1603789223704" duration="195000" />
+      <workItem from="1603789884362" duration="3421000" />
+      <workItem from="1603794667477" duration="5747000" />
+      <workItem from="1603800519676" duration="2741000" />
+      <workItem from="1603803328357" duration="9953000" />
+      <workItem from="1603876209853" duration="3002000" />
+      <workItem from="1603879271439" duration="8701000" />
+      <workItem from="1603890027048" duration="9911000" />
+      <workItem from="1603943571182" duration="899000" />
+      <workItem from="1603944978120" duration="3310000" />
+      <workItem from="1603952550214" duration="187000" />
+      <workItem from="1603952804751" duration="12126000" />
+      <workItem from="1603968326600" duration="427000" />
+      <workItem from="1603969187487" duration="12185000" />
+      <workItem from="1604023507024" duration="37000" />
+      <workItem from="1604023695239" duration="7328000" />
+      <workItem from="1604033431590" duration="8017000" />
+      <workItem from="1604055345851" duration="1402000" />
+      <workItem from="1604059654605" duration="187000" />
+      <workItem from="1604060029446" duration="115000" />
+      <workItem from="1604060220998" duration="8149000" />
+      <workItem from="1604126997479" duration="66000" />
+      <workItem from="1604127383538" duration="173000" />
+      <workItem from="1604127677740" duration="3794000" />
+      <workItem from="1604131843663" duration="40000" />
+      <workItem from="1604132350952" duration="140000" />
+      <workItem from="1604132561711" duration="14242000" />
+      <workItem from="1604283317396" duration="3926000" />
+      <workItem from="1604288578572" duration="2880000" />
+      <workItem from="1604291552863" duration="3959000" />
+      <workItem from="1604299415133" duration="2738000" />
+      <workItem from="1604302244787" duration="755000" />
+      <workItem from="1604303103296" duration="420000" />
+      <workItem from="1604303621178" duration="249000" />
+      <workItem from="1604305241147" duration="496000" />
+      <workItem from="1604305813342" duration="2163000" />
+      <workItem from="1604308039454" duration="17443000" />
+      <workItem from="1604385261815" duration="4174000" />
+      <workItem from="1604389557615" duration="1554000" />
+      <workItem from="1604391216152" duration="1920000" />
+      <workItem from="1604393216827" duration="953000" />
+      <workItem from="1604395402048" duration="3926000" />
+      <workItem from="1604401254547" duration="7742000" />
+      <workItem from="1604410760918" duration="222000" />
+      <workItem from="1604411064235" duration="5310000" />
+      <workItem from="1604456968313" duration="2440000" />
+      <workItem from="1604459554048" duration="1401000" />
+      <workItem from="1604461002784" duration="6877000" />
+      <workItem from="1604474248880" duration="619000" />
+      <workItem from="1604475071315" duration="2629000" />
+      <workItem from="1604477755223" duration="820000" />
+      <workItem from="1604478636962" duration="14341000" />
+      <workItem from="1604496194612" duration="3669000" />
+      <workItem from="1604541295979" duration="15950000" />
+      <workItem from="1604573821869" duration="24947000" />
+      <workItem from="1604653304342" duration="2082000" />
+      <workItem from="1604656230388" duration="22220000" />
+      <workItem from="1604918754042" duration="1938000" />
+      <workItem from="1604988650050" duration="2387000" />
+      <workItem from="1605099623266" duration="1382000" />
+      <workItem from="1605144272944" duration="612000" />
+      <workItem from="1605236282379" duration="3791000" />
+      <workItem from="1605264809627" duration="2021000" />
+      <workItem from="1605268477614" duration="8400000" />
+      <workItem from="1605678489627" duration="18645000" />
+      <workItem from="1605706741154" duration="254000" />
+      <workItem from="1605748286025" duration="15054000" />
+      <workItem from="1605774833176" duration="3300000" />
+      <workItem from="1605778198307" duration="22040000" />
+      <workItem from="1605856739735" duration="13086000" />
+      <workItem from="1605871742381" duration="207000" />
+      <workItem from="1605872000448" duration="48993000" />
+      <workItem from="1606225066422" duration="620000" />
+      <workItem from="1606293479261" duration="15924000" />
+      <workItem from="1606382750027" duration="593000" />
+      <workItem from="1606404987715" duration="592000" />
+      <workItem from="1606444739489" duration="599000" />
+      <workItem from="1606699166190" duration="15611000" />
+      <workItem from="1606728002804" duration="4341000" />
+      <workItem from="1606737472583" duration="1248000" />
+      <workItem from="1606993544861" duration="999000" />
+      <workItem from="1607050886648" duration="1847000" />
+      <workItem from="1607258505762" duration="13718000" />
+      <workItem from="1607303676789" duration="5621000" />
+      <workItem from="1607333008261" duration="49000" />
+      <workItem from="1607419878842" duration="2289000" />
+      <workItem from="1607478492670" duration="595000" />
+      <workItem from="1607493867183" duration="9650000" />
+      <workItem from="1607908722222" duration="12134000" />
+      <workItem from="1607938634387" duration="6406000" />
+      <workItem from="1607946653136" duration="6919000" />
+      <workItem from="1608013085422" duration="1782000" />
+      <workItem from="1608089590179" duration="3489000" />
+      <workItem from="1608104662099" duration="9745000" />
+      <workItem from="1608118446243" duration="1387000" />
+      <workItem from="1608124700114" duration="599000" />
+      <workItem from="1608169725953" duration="599000" />
+      <workItem from="1608171475359" duration="904000" />
+      <workItem from="1608173181531" duration="599000" />
+      <workItem from="1608175782929" duration="599000" />
+      <workItem from="1608177447959" duration="2870000" />
+      <workItem from="1608187749710" duration="1536000" />
+      <workItem from="1608189707086" duration="3192000" />
+      <workItem from="1608193034057" duration="593000" />
+      <workItem from="1608194180309" duration="2051000" />
+      <workItem from="1608197684306" duration="598000" />
+      <workItem from="1608256690137" duration="651000" />
+      <workItem from="1608259056809" duration="1808000" />
+      <workItem from="1608288413807" duration="6827000" />
+      <workItem from="1608547735501" duration="1330000" />
+      <workItem from="1608601386470" duration="5132000" />
+      <workItem from="1608773784030" duration="6300000" />
+      <workItem from="1608884142221" duration="16685000" />
+      <workItem from="1609139417354" duration="15508000" />
+      <workItem from="1609245380692" duration="6059000" />
+      <workItem from="1609928654386" duration="8202000" />
+      <workItem from="1610328552195" duration="598000" />
+      <workItem from="1610351795834" duration="595000" />
+      <workItem from="1610433905367" duration="579000" />
+      <workItem from="1610449987116" duration="597000" />
+      <workItem from="1610519926964" duration="622000" />
+      <workItem from="1610625145088" duration="1248000" />
+      <workItem from="1610680450174" duration="641000" />
+      <workItem from="1614562496921" duration="852000" />
+      <workItem from="1614758213079" duration="3000" />
+      <workItem from="1614758241345" duration="242000" />
+      <workItem from="1615528372914" duration="9479000" />
+      <workItem from="1615538822011" duration="7652000" />
+      <workItem from="1615777128634" duration="1297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="881559000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-65" y="375" width="1664" height="1053" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.18136646" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.07329193" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2654185" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46885246" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42404372" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3650273" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.20327869" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3486339" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.072222225" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.045962732" />
+      <window_info anchor="right" auto_hide="true" x="720" y="268" width="566" height="555" id="SciView" order="4" show_stripe_button="false" type="FLOATING" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.060248446" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.07329193" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.040183697" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35792953" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37995595" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.36571428" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.19603524" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.14549938" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.072222225" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.22320217" />
+      <window_info anchor="right" auto_hide="true" x="720" y="268" width="566" height="555" id="SciView" order="4" show_stripe_button="false" type="FLOATING" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dbnet/eval.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dbnet/predict.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dbnet/predict_tmp.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/invoice_pre.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/invoice.py</url>
+          <line>1653</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crnn/network_dnn.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crnn/network_dnn.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/invoice2.py</url>
+          <line>241</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/invoice2.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crnn_95_31/test.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crnn_95_31/test.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eval/invoice/eval_invoice.py</url>
+          <line>602</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/driverlicense_gao.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/driverlicense_gao.py</url>
+          <line>303</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/idcard_gao.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/businesslicense_gao.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_tmp.py</url>
+          <line>250</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_tmp.py</url>
+          <line>337</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crnn/network_dnn.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/crnn/__init__.py</url>
+          <line>196</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_tmp.py</url>
+          <line>245</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/complete_ocr$id_eyes.coverage" NAME="id_eyes Coverage Results" MODIFIED="1608727473206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$label_json2txt.coverage" NAME="label_json2txt Coverage Results" MODIFIED="1605273267405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../图片标注实例" />
+    <SUITE FILE_PATH="coverage/complete_ocr$test_app.coverage" NAME="test_app Coverage Results" MODIFIED="1615535557635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$invoice2.coverage" NAME="invoice2 Coverage Results" MODIFIED="1606304160902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/complete_ocr$eval.coverage" NAME="eval Coverage Results" MODIFIED="1602847433370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dbnet" />
+    <SUITE FILE_PATH="coverage/complete_ocr$invoice.coverage" NAME="invoice Coverage Results" MODIFIED="1606304177413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/complete_ocr$test_tmp.coverage" NAME="test_tmp Coverage Results" MODIFIED="1615772901346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$invoice3.coverage" NAME="invoice3 Coverage Results" MODIFIED="1605862321637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/complete_ocr$invoice_tmp.coverage" NAME="invoice_tmp Coverage Results" MODIFIED="1603095259863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/complete_ocr$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1606703899572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2019.1/system/remote_sources/-644522042/1247218326/flask" />
+    <SUITE FILE_PATH="coverage/complete_ocr$img_xuanzhuan.coverage" NAME="img_xuanzhuan Coverage Results" MODIFIED="1608101686735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$partImgSave.coverage" NAME="partImgSave Coverage Results" MODIFIED="1607513616090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$codecs.coverage" NAME="codecs Coverage Results" MODIFIED="1603365139002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/.PyCharm2019.1/system/remote_sources/-644522042/-149762766" />
+    <SUITE FILE_PATH="coverage/complete_ocr$tmp_test.coverage" NAME="tmp_test Coverage Results" MODIFIED="1607910594488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$idcard.coverage" NAME="idcard Coverage Results" MODIFIED="1609145280110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/complete_ocr$invoice2_old.coverage" NAME="invoice2_old Coverage Results" MODIFIED="1606304189898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/complete_ocr$test_invoice.coverage" NAME="test_invoice Coverage Results" MODIFIED="1607946711730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$shanchu.coverage" NAME="shanchu Coverage Results" MODIFIED="1608729103735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$test_invoice2.coverage" NAME="test_invoice2 Coverage Results" MODIFIED="1605868779851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$img_add_word.coverage" NAME="img_add_word Coverage Results" MODIFIED="1608775401609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$data_loader.coverage" NAME="data_loader Coverage Results" MODIFIED="1605861937570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/complete_ocr$test_invoice__1_.coverage" NAME="test_invoice (1) Coverage Results" MODIFIED="1602848465060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/complete_ocr$app.coverage" NAME="app Coverage Results" MODIFIED="1615773195823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$rename.coverage" NAME="rename Coverage Results" MODIFIED="1609123581643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/桌面/跑API/工具py" />
+    <SUITE FILE_PATH="coverage/complete_ocr$img_xuan.coverage" NAME="img_xuan Coverage Results" MODIFIED="1609126364988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$test.coverage" NAME="test Coverage Results" MODIFIED="1607939301052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crnn_95_31" />
+    <SUITE FILE_PATH="coverage/complete_ocr$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1603878597677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/angle" />
+    <SUITE FILE_PATH="coverage/complete_ocr$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1604290174626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crnn" />
+    <SUITE FILE_PATH="coverage/complete_ocr$scan.coverage" NAME="scan Coverage Results" MODIFIED="1609124699902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/complete_ocr$predict.coverage" NAME="predict Coverage Results" MODIFIED="1604579542728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dbnet" />
+    <SUITE FILE_PATH="coverage/complete_ocr$predict_tmp.coverage" NAME="predict_tmp Coverage Results" MODIFIED="1604538914526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dbnet" />
+    <SUITE FILE_PATH="coverage/complete_ocr$eval_invoice.coverage" NAME="eval_invoice Coverage Results" MODIFIED="1608887576456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eval/invoice" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>pass</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>boxes_list == boxes_list_save</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>boxes_list_list == boxes_list_save</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>box_list == boxes_list_save</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.where(thresh &gt; 0)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>'机器编号:'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>121.50001525878906</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-644522042/1247218326/werkzeug/serving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5449">
+          <caret line="302" column="12" lean-forward="true" selection-start-line="302" selection-start-column="12" selection-end-line="302" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/driverlicense.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="632" column="35" lean-forward="true" selection-start-line="632" selection-start-column="35" selection-end-line="632" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jpg" />
+    <entry file="file://$PROJECT_DIR$/scan.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-644522042/1247218326/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="2110" selection-start-line="2110" selection-end-line="2110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/utils/businesslicense.py" />
+    <entry file="file://$PROJECT_DIR$/app/idcard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="54" column="15" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-644522042/1247218326/flask/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="759" selection-start-line="759" selection-end-line="759" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/remote_sources/-644522042/1247218326/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="1935" selection-start-line="1935" selection-end-line="1935" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/businesslicense.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6669">
+          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aa.py" />
+    <entry file="file://$PROJECT_DIR$/1_21/1.png" />
+    <entry file="file://$PROJECT_DIR$/1_21/2.png" />
+    <entry file="file://$PROJECT_DIR$/1_21/3.png" />
+    <entry file="file://$PROJECT_DIR$/scan.jpg" />
+    <entry file="file://$PROJECT_DIR$/train_ctw1500.py" />
+    <entry file="file://$PROJECT_DIR$/test_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="2163" column="26" lean-forward="true" selection-start-line="2163" selection-start-column="26" selection-end-line="2163" selection-end-column="26" />
+          <folding>
+            <element signature="e#75#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycharm_generator_utils/module_redeclarator.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-644522042/_functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/figure/pipeline.png" />
+    <entry file="file://$PROJECT_DIR$/figure/pse.png" />
+    <entry file="file://$PROJECT_DIR$/figure/res0.png" />
+    <entry file="file://$PROJECT_DIR$/coverage_runner/run_coverage.py" />
+    <entry file="file://$PROJECT_DIR$/crnn/network_dnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eval/invoice/eval_invoice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="602" selection-start-line="602" selection-end-line="602" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crnn/network_torch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="217" column="6" selection-start-line="217" selection-start-column="6" selection-end-line="217" selection-end-column="6" />
+          <folding>
+            <element signature="e#7132#12364#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crnn/network_keras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2588" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/recognition/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/recognition/text.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/recognition/text.names" />
+    <entry file="file://$PROJECT_DIR$/models/recognition/text.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/lib/visualization.py" />
+    <entry file="file://$PROJECT_DIR$/layout/sample.jpg" />
+    <entry file="file://$PROJECT_DIR$/layout/invoice_layout.py" />
+    <entry file="file://$PROJECT_DIR$/layout/HOGLocalization.py" />
+    <entry file="file://$PROJECT_DIR$/layout/VGGLocalization.py" />
+    <entry file="file://$PROJECT_DIR$/dbnet/models/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/idcard_gao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/driverlicense_gao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/businesslicense_gao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7410">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39615">
+          <caret line="2093" selection-start-line="2093" selection-end-line="2093" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angle/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2242">
+          <caret line="129" column="14" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5852">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crnn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4788">
+          <caret line="259" selection-start-line="259" selection-end-line="259" />
+          <folding>
+            <element signature="e#5241#5250#0" expanded="true" />
+            <element signature="e#6171#6265#0" />
+            <element signature="e#9309#10660#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbnet/utils/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#74#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/detective/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbnet/utils/cal_recall/script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#46#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
